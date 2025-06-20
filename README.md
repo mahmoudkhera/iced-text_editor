@@ -7,7 +7,7 @@ A minimal text editor built in **Rust** using the [`iced`](https://github.com/ic
 - Theme switching (light/dark) via a dropdown
 - Editor icons via custom font (`editor-icons.ttf`)
 
-#![Text Editor Screenshot](assets/screenshot.png)
+#![Text Editor Screenshot](assets/Screenshot.png)
 
 
 
