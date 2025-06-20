@@ -1,0 +1,9 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = {version="0.13.0",features=["debug","tokio","highlighter"]}
+tokio = { version = "1.43.0", features = ["fs","rt"] }
+rfd ={version="0.15.2"}
